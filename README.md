@@ -49,16 +49,3 @@ K-Pop: Demon Hunters follows a group of world-famous K-pop idols who secretly li
 - scripts/ — Scene outlines or fan-made scripts  
 - assets/ — Posters, promotional materials, and visuals  
 
----
-
-## Movie Metadata
-```json
-{
-  "title": "K-Pop: Demon Hunters",
-  "status": "Upcoming",
-  "directors": ["Maggie Kang", "Chris Appelhans"],
-  "studio": "Sony Pictures Animation",
-  "genres": ["Animation", "Action", "Fantasy", "Music"],
-  "themes": ["Dual Identity", "Unity", "Empowerment"],
-  "expected_release": "TBA"
-}
